@@ -9,7 +9,7 @@ The registry eliminates the need for intermediaries, reduces the risk of black-m
 --- 
 
 ## 🧠 Why build this project?
-
+ 
 The healthcare sector faces serious challenges when it comes to organ and blood donation systems:
 
 1. **Black Market & Exploitation**
