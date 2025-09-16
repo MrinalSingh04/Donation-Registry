@@ -5,7 +5,7 @@
 This project is a **blockchain-based registry** that enables donors and hospitals to **securely register blood and organ availability**. The smart contract transparently matches recipients with compatible donors, ensuring **fairness, trust, and traceability** in the donation process.
 
 The registry eliminates the need for intermediaries, reduces the risk of black-market exploitation, and creates an **immutable record of donations** that hospitals, patients, and regulators can verify.
-
+ 
 --- 
 
 ## 🧠 Why build this project?
