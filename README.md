@@ -6,7 +6,7 @@ This project is a **blockchain-based registry** that enables donors and hospital
 
 The registry eliminates the need for intermediaries, reduces the risk of black-market exploitation, and creates an **immutable record of donations** that hospitals, patients, and regulators can verify.
 
----
+--- 
 
 ## 🧠 Why build this project?
 
